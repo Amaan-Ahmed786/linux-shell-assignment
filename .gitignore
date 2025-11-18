@@ -1,0 +1,6 @@
+# Ignore log and backup files
+*.log
+*.gz
+screenshots/
+__pycache__/
+*.swp
